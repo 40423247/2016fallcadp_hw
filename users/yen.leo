@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -30,8 +29,8 @@
 <v t="leo.20161115005025.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20161115005025.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161115005025.11" a="E"><vh>20160916</vh>
-<v t="leo.20161115005025.12" a="E"><vh>上課日期</vh>
+<v t="leo.20161115005025.11"><vh>20160916</vh>
+<v t="leo.20161115005025.12"><vh>上課日期</vh>
 <v t="leo.20161115005025.13"><vh>20160916</vh></v>
 </v>
 <v t="leo.20161115005025.14" a="E"><vh>上課內容</vh>
@@ -41,8 +40,8 @@
 <v t="leo.20161115005025.17"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.18" a="E"><vh>20160923</vh>
-<v t="leo.20161115005025.19" a="E"><vh>上課日期</vh>
+<v t="leo.20161115005025.18"><vh>20160923</vh>
+<v t="leo.20161115005025.19"><vh>上課日期</vh>
 <v t="leo.20161115005025.20"><vh>20160923</vh></v>
 </v>
 <v t="leo.20161115005025.21" a="E"><vh>上課內容</vh>
@@ -52,7 +51,7 @@
 <v t="leo.20161115005025.24"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.25" a="E"><vh>20160930</vh>
+<v t="leo.20161115005025.25"><vh>20160930</vh>
 <v t="leo.20161115005025.26" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.27"><vh>20160930</vh></v>
 </v>
@@ -63,7 +62,7 @@
 <v t="leo.20161115005025.31"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.32" a="E"><vh>20161007</vh>
+<v t="leo.20161115005025.32"><vh>20161007</vh>
 <v t="leo.20161115005025.33" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.34"><vh>20161007</vh></v>
 </v>
@@ -74,7 +73,7 @@
 <v t="leo.20161115005025.38"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.39" a="E"><vh>20161014</vh>
+<v t="leo.20161115005025.39"><vh>20161014</vh>
 <v t="leo.20161115005025.40" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.41"><vh>20161014</vh></v>
 </v>
@@ -85,7 +84,7 @@
 <v t="leo.20161115005025.45"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.46" a="E"><vh>20161021</vh>
+<v t="leo.20161115005025.46"><vh>20161021</vh>
 <v t="leo.20161115005025.47" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.48"><vh>20161021</vh></v>
 </v>
@@ -96,7 +95,7 @@
 <v t="leo.20161115005025.52"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.53" a="E"><vh>20161028</vh>
+<v t="leo.20161115005025.53"><vh>20161028</vh>
 <v t="leo.20161115005025.54" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.55"><vh>20161028</vh></v>
 </v>
@@ -107,7 +106,7 @@
 <v t="leo.20161115005025.59"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.60" a="E"><vh>20161104</vh>
+<v t="leo.20161115005025.60"><vh>20161104</vh>
 <v t="leo.20161115005025.61" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.62"><vh>20161104</vh></v>
 </v>
@@ -118,7 +117,7 @@
 <v t="leo.20161115005025.66"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161115005025.67" a="E"><vh>20161111</vh>
+<v t="leo.20161115005025.67"><vh>20161111</vh>
 <v t="leo.20161115005025.68" a="E"><vh>上課日期</vh>
 <v t="leo.20161115005025.69"><vh>20161111</vh></v>
 </v>
@@ -127,6 +126,86 @@
 </v>
 <v t="leo.20161115005025.72" a="E"><vh>心得</vh>
 <v t="leo.20161115005025.73"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170106100400.1"><vh>20161118</vh>
+<v t="leo.20170106100400.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106100400.3"><vh>20161111</vh></v>
+</v>
+<v t="leo.20170106100400.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106100400.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106100400.6" a="E"><vh>心得</vh>
+<v t="leo.20170106100400.7"><vh>心得</vh></v>
+</v>
+<v t="leo.20170106100400.8" a="E"><vh>問題</vh>
+<v t="leo.20170106100400.9"><vh>問題</vh></v>
+</v>
+</v>
+<v t="leo.20170106101334.1"><vh>20161125</vh>
+<v t="leo.20170106101334.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101334.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20170106101334.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106101334.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101334.6" a="E"><vh>心得</vh>
+<v t="leo.20170106101334.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170106101350.1"><vh>20161202</vh>
+<v t="leo.20170106101350.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101350.3"><vh>20161202</vh></v>
+</v>
+<v t="leo.20170106101350.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106101350.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101350.6" a="E"><vh>心得</vh>
+<v t="leo.20170106101350.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170106101357.1"><vh>20161209</vh>
+<v t="leo.20170106101357.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101357.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20170106101357.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106101357.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101357.6" a="E"><vh>心得</vh>
+<v t="leo.20170106101357.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170106101404.1"><vh>20161216</vh>
+<v t="leo.20170106101404.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101404.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20170106101404.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106101404.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101404.6" a="E"><vh>心得</vh>
+<v t="leo.20170106101404.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170106101410.1"><vh>20161223</vh>
+<v t="leo.20170106101410.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101410.3"><vh>20161223</vh></v>
+</v>
+<v t="leo.20170106101410.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106101410.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101410.6" a="E"><vh>心得</vh>
+<v t="leo.20170106101410.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170106101416.1"><vh>20161230</vh>
+<v t="leo.20170106101416.2"><vh>上課日期</vh>
+<v t="leo.20170106101416.3"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170106101416.4"><vh>上課內容</vh>
+<v t="leo.20170106101416.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101416.6" a="E"><vh>心得</vh>
+<v t="leo.20170106101416.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -146,7 +225,7 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="leo.20161115005122.1"><vh>@path ./../content</vh>
+<v t="leo.20161115005122.1" a="E"><vh>@path ./../content</vh>
 <v t="leo.20161115005122.2" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="leo.20161115005122.3" a="E"><vh>201609</vh>
 <v t="leo.20161115005122.4"><vh>@edit 20160916.md</vh></v>
@@ -158,6 +237,13 @@
 <v t="leo.20161115005122.10"><vh>@edit 20161028.md</vh></v>
 <v t="leo.20161115005122.11"><vh>@edit 20161104.md</vh></v>
 <v t="leo.20161115005122.12"><vh>@edit 20161111.md</vh></v>
+<v t="leo.20170106104147.1"><vh>@edit 20161118.md</vh></v>
+<v t="leo.20170106104204.1"><vh>@edit 20161125.md</vh></v>
+<v t="leo.20170106104210.1"><vh>@edit 20161202.md</vh></v>
+<v t="leo.20170106104217.1"><vh>@edit 20161209.md</vh></v>
+<v t="leo.20170106104223.1"><vh>@edit 20161216.md</vh></v>
+<v t="leo.20170106104230.1"><vh>@edit 20161223.md</vh></v>
+<v t="leo.20170106104236.1"><vh>@edit 20161230.md</vh></v>
 </v>
 </v>
 </v>
@@ -824,5 +910,356 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20161115005122.1"></t>
 <t tx="leo.20161115005122.2"></t>
 <t tx="leo.20161115005122.3"></t>
+<t tx="leo.20170106100400.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106100400.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100400.3">## 2016/11/18 第十週
+
+</t>
+<t tx="leo.20170106100400.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100400.5">##上課內容 
+
+有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
+
+
+
+</t>
+<t tx="leo.20170106100400.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100400.7">##心得
+
+來到了第10週，每次上這門課都覺得英文真的很重要，很多國外網站還有城市都是用英文。
+
+</t>
+<t tx="leo.20170106100400.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106100400.9">##問題
+
+我這次做也出現了許多問題。連GitHub都寄信給我。
+
+信裡面這麼說The page build failed with the following error:
+
+The tag `notebook` on line 13 in `plugin/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md` is not a recognized Liquid tag. For more information, see https://help.github.com/articles/page-build-failed-unknown-tag-error.
+
+For information on troubleshooting Jekyll see:
+
+https://help.github.com/articles/troubleshooting-jekyll-builds
+
+If you have any questions you can contact us by replying to this email.
+
+我看不太懂他說什麼，不過我們經過討論才知道只要把test_data刪掉，就可解決。我覺得現在GitHub越來越多問題了。
+</t>
+<t tx="leo.20170106101334.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106101334.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101334.3">## 2016/11/25 第十一週
+
+</t>
+<t tx="leo.20170106101334.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101334.5">##上課內容 
+
+虎尾科技大學36週年校慶
+
+
+
+
+</t>
+<t tx="leo.20170106101334.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101334.7">##心得
+
+虎科校慶沒上課。
+
+</t>
+<t tx="leo.20170106101350.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106101350.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101350.3">## 2016/12/02 第十二週
+
+</t>
+<t tx="leo.20170106101350.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101350.5">##上課內容 
+
+利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
+
+
+
+
+</t>
+<t tx="leo.20170106101350.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101350.7">##心得
+
+今天第十二次上課，要畫第二張圖，慢慢熟悉SOLVESPACE了，雖然還是會有很多地方卡住。不過我還是畫好了，真開心。
+
+</t>
+<t tx="leo.20170106101357.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106101357.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101357.3">## 2016/12/09 第十三週
+
+</t>
+<t tx="leo.20170106101357.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101357.5">##上課內容 
+
+利用OnShape練習繪製零件。
+
+
+
+
+</t>
+<t tx="leo.20170106101357.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101357.7">##心得
+
+今天第十三次上課，又有交一個新的畫圖軟體OnShape，老師說是Solidworks/的工程師寫的，應該不會太難，只需要熟悉一下。
+</t>
+<t tx="leo.20170106101404.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106101404.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101404.3">## 2016/12/16 第十四週
+
+</t>
+<t tx="leo.20170106101404.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101404.5">##上課內容 
+
+用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
+
+
+
+
+</t>
+<t tx="leo.20170106101404.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101404.7">##心得
+
+今天第十四次上課，上課人數越來越少了，而且今天的圖好難畫，回去要好好研究了。
+
+</t>
+<t tx="leo.20170106101410.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106101410.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101410.3">## 2016/12/16 第十五週
+
+</t>
+<t tx="leo.20170106101410.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101410.5">##上課內容 
+
+3D印表機 ，並模擬它的運動軌跡。
+
+
+
+
+</t>
+<t tx="leo.20170106101410.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101410.7">##心得
+
+今天第十五次上課，終於看到老師一開始上課的目標了--3D印表機，對這門課越來越有興趣了，真希望多學到一些。
+
+</t>
+<t tx="leo.20170106101416.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170106101416.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101416.3">## 2016/12/30 第十六週
+
+</t>
+<t tx="leo.20170106101416.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101416.5">##上課內容 
+
+OnShape繪製Mechanism Tutorial
+
+
+
+
+</t>
+<t tx="leo.20170106101416.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170106101416.7">##心得
+
+今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。
+</t>
 </tnodes>
 </leo_file>
