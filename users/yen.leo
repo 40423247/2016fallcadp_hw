@@ -208,6 +208,17 @@
 <v t="leo.20170106101416.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170109021834.1" a="E"><vh>20170106</vh>
+<v t="leo.20170109021834.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170109021834.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170109021834.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170109021834.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170109021834.6" a="E"><vh>心得</vh>
+<v t="leo.20170109021834.7"><vh>心得</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -244,6 +255,7 @@
 <v t="leo.20170106104223.1"><vh>@edit 20161216.md</vh></v>
 <v t="leo.20170106104230.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20170106104236.1"><vh>@edit 20161230.md</vh></v>
+<v t="leo.20170109022012.1"><vh>@edit 20170106.md</vh></v>
 </v>
 </v>
 </v>
@@ -1261,5 +1273,51 @@ OnShape繪製Mechanism Tutorial
 
 今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。
 </t>
+<t tx="leo.20170109021834.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170109021834.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109021834.3">## 2017/01/06 第十七週
+
+</t>
+<t tx="leo.20170109021834.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109021834.5">##上課內容 
+
+老師說明了這學期的課與下學期的關連性。
+
+
+
+
+</t>
+<t tx="leo.20170109021834.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170109021834.7">##心得
+
+
+這學期也已經到了尾聲了，覺得自己不算是很努力，不過在最後幾堂課有振作起來，開始了解老師在幹嘛之後，覺得下學期應該好好跟著老師的腳步，才不會在期末很辛苦。</t>
 </tnodes>
 </leo_file>
