@@ -153,7 +153,7 @@
 <v t="leo.20170106101334.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170106101350.1"><vh>20161202</vh>
+<v t="leo.20170106101350.1" a="E"><vh>20161202</vh>
 <v t="leo.20170106101350.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170106101350.3"><vh>20161202</vh></v>
 </v>
@@ -208,7 +208,7 @@
 <v t="leo.20170106101416.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109021834.1" a="E"><vh>20170106</vh>
+<v t="leo.20170109021834.1"><vh>20170106</vh>
 <v t="leo.20170109021834.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170109021834.3"><vh>20170106</vh></v>
 </v>
@@ -1071,7 +1071,7 @@ If you have any questions you can contact us by replying to this email.
 
 
 
-
+&lt;iframe src="https://player.vimeo.com/video/198585341" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170106101350.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
