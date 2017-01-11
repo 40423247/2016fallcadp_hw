@@ -206,15 +206,15 @@
 <v t="leo.20170106101410.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170106101416.1"><vh>20161230</vh>
-<v t="leo.20170106101416.2"><vh>上課日期</vh>
+<v t="leo.20170106101416.1" a="E"><vh>20161230</vh>
+<v t="leo.20170106101416.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170106101416.3"><vh>20161230</vh></v>
 </v>
 <v t="leo.20170106101416.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170106101416.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170106101416.6" a="E"><vh>心得</vh>
-<v t="leo.20170106101416.7"><vh>心得</vh></v>
+<v t="leo.20170112014012.1" a="E"><vh>心得</vh>
+<v t="leo.20170112014012.2"><vh>心得</vh></v>
 </v>
 </v>
 <v t="leo.20170109021834.1"><vh>20170106</vh>
@@ -1224,6 +1224,7 @@ If you have any questions you can contact us by replying to this email.
 
 
 
+&lt;img src="data/image/W15-1.png" width="550" /&gt;
 </t>
 <t tx="leo.20170106101410.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1266,20 +1267,8 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170106101416.5">##上課內容 
 
-計算 Piston 不發生干涉的有效行程</t>
-<t tx="leo.20170106101416.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170106101416.7">##心得
-
-今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。
-</t>
+計算 Piston 不發生干涉的有效行程
+&lt;img src="data/w16.png" width="650" /&gt;</t>
 <t tx="leo.20170109021834.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1371,6 +1360,19 @@ If you have any questions you can contact us by replying to this email.
 &lt;iframe src="https://player.vimeo.com/video/199024528" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
+</t>
+<t tx="leo.20170112014012.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112014012.2">##心得
+
+今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。
 </t>
 </tnodes>
 </leo_file>
