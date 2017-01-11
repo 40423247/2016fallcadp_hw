@@ -181,7 +181,7 @@
 <v t="leo.20170106101357.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170106101404.1"><vh>20161216</vh>
+<v t="leo.20170106101404.1" a="E"><vh>20161216</vh>
 <v t="leo.20170106101404.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170106101404.3"><vh>20161216</vh></v>
 </v>
@@ -1169,6 +1169,8 @@ If you have any questions you can contact us by replying to this email.
 
 用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
 
+&lt;iframe src="https://player.vimeo.com/video/199022535" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 
@@ -1184,7 +1186,7 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170106101404.7">##心得
 
-今天第十四次上課，上課人數越來越少了，而且今天的圖好難畫，回去要好好研究了。
+用SolveSpace把檔案存成html檔,並且更改成http設定,原本用的SolveSpace是2.0版的，沒有這項功能還在反惱呢，後來問老師才知道的。
 
 </t>
 <t tx="leo.20170106101410.1">&lt;section&gt;
