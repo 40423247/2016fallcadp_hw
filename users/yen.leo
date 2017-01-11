@@ -160,11 +160,14 @@
 <v t="leo.20170106101350.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170106101350.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170106101350.6" a="E"><vh>心得</vh>
+<v t="leo.20170112002630.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170112002630.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170106101350.6"><vh>心得</vh>
 <v t="leo.20170106101350.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170106101357.1"><vh>20161209</vh>
+<v t="leo.20170106101357.1" a="E"><vh>20161209</vh>
 <v t="leo.20170106101357.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170106101357.3"><vh>20161209</vh></v>
 </v>
@@ -1072,6 +1075,7 @@ If you have any questions you can contact us by replying to this email.
 
 
 &lt;iframe src="https://player.vimeo.com/video/198585341" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 <t tx="leo.20170106101350.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1314,5 +1318,20 @@ If you have any questions you can contact us by replying to this email.
 
 
 這學期也已經到了尾聲了，覺得自己不算是很努力，不過在最後幾堂課有振作起來，開始了解老師在幹嘛之後，覺得下學期應該好好跟著老師的腳步，才不會在期末很辛苦！</t>
+<t tx="leo.20170112002630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112002630.2">##上課內容 
+
+
+&lt;iframe src="https://player.vimeo.com/video/198952150" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
