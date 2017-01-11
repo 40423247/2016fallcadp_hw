@@ -188,6 +188,9 @@
 <v t="leo.20170106101404.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170106101404.5"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170112005923.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170112005923.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20170106101404.6" a="E"><vh>心得</vh>
 <v t="leo.20170106101404.7"><vh>心得</vh></v>
 </v>
@@ -1351,6 +1354,22 @@ If you have any questions you can contact us by replying to this email.
 
 
 &lt;iframe src="https://player.vimeo.com/video/199019143" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170112005923.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170112005923.2">##上課內容 
+
+
+&lt;iframe src="https://player.vimeo.com/video/199024528" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 
 </t>
 </tnodes>
