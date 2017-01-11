@@ -1327,7 +1327,7 @@ If you have any questions you can contact us by replying to this email.
 
 						
 </t>
-<t tx="leo.20170112002630.2">##上課內容 
+<t tx="leo.20170112002630.2">##圓棒
 
 
 &lt;iframe src="https://player.vimeo.com/video/198952150" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
