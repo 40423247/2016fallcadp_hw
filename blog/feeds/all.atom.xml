@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423247 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T22:00:00+08:00</updated><entry><title>影片區</title><link href="./ying-pian-qu.html" rel="alternate"></link><updated>2017-01-12T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-01-12:./ying-pian-qu.html</id><summary type="html">&lt;p&gt;影片總整理&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423247 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T22:00:00+08:00</updated><entry><title>第十八週</title><link href="./di-shi-ba-zhou.html" rel="alternate"></link><published>2017-01-13T22:00:00+08:00</published><updated>2017-01-13T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-01-13:./di-shi-ba-zhou.html</id><summary type="html">&lt;p&gt;電腦輔助設計實習課程: 2016 Fall 末課程總結&lt;/p&gt;
+
+
+&lt;p&gt;1. 創造力三元素&lt;p&gt;
+
+&lt;p&gt;自學能力 - 根據特定主題, 自我學習能力&lt;p&gt;
+&lt;p&gt;程式能力 - 規劃並執行特定格式化流程之能力&lt;p&gt;
+&lt;p&gt;想像能力 - 在規劃或執行之前, 根據既有基礎, 具備步驟安排, 想望成具體結果之能力&lt;p&gt;
+
+&lt;p&gt;2. 6種表達方式&lt;p&gt;
+&lt;p&gt;口語表達&lt;p&gt;
+&lt;p&gt;文字表達&lt;p&gt;
+&lt;p&gt;2D 圖像表達&lt;p&gt;
+&lt;p&gt;3D 圖像表達 (含動畫或影音表達)&lt;p&gt;
+&lt;p&gt;理論分析表達 (含定性或定量表達)&lt;p&gt;
+&lt;p&gt;實體表達&lt;p&gt;
+
+&lt;p&gt;3. 可攜式 Python3 程式環境&lt;p&gt;
+&lt;p&gt;可攜式&lt;p&gt;
+&lt;p&gt;程式環境&lt;p&gt;
+&lt;p&gt;Leo Editor (多元資料管理、pelican 轉檔指令執行, 模擬 IPv4/v6 https server)&lt;p&gt;
+&lt;p&gt;Pelican 網誌&lt;p&gt;
+&lt;p&gt;Reveal 網頁投影片&lt;p&gt;
+&lt;p&gt;git client (config、proxy、add、commit、push、pull、branch、checkout)&lt;p&gt;
+&lt;p&gt;Gihub 倉儲、gh-pages 與 wiki&lt;p&gt;
+&lt;p&gt;Brython 網際程式系統 (文字、2D/3D靜態與動態資料展示, 互動式運算)&lt;p&gt;
+
+&lt;p&gt;4. Solvespace 參數 3D 繪圖系統&lt;p&gt;
+&lt;p&gt;簡單的 3D 零件與組立件&lt;p&gt;
+&lt;p&gt;2D 機構模擬 (kinematics)&lt;p&gt;
+&lt;p&gt;3D 零件與組立件網際檢視 (three.js)&lt;p&gt;
+
+&lt;p&gt;5. Onshape 雲端參數 3D 繪圖系統&lt;p&gt;
+&lt;p&gt;以電腦瀏覽器開啟, 免單機安裝厚重系統&lt;p&gt;
+&lt;p&gt;以手機與平板 Apps 輔助設計&lt;p&gt;
+&lt;p&gt;提供特徵設計版本管理&lt;p&gt;
+&lt;p&gt;提供雲端零組件協同&lt;p&gt;
+&lt;p&gt;提供網際零組件與機構模擬檢視&lt;p&gt;
+&lt;p&gt;提供 featurescript 客製化程式系統 (納入協同產品設計實習課程範圍)&lt;p&gt;
+
+&lt;p&gt;6. 零組件繪圖練習&lt;p&gt;
+&lt;p&gt;Solvespace Tutorial 範例&lt;p&gt;
+&lt;p&gt;Onshape Tutorial 課程範例&lt;p&gt;
+&lt;p&gt;Delta 3D Printer 零組件範例&lt;p&gt;
+&lt;p&gt;Fourbar Linkage 零組件範例&lt;p&gt;
+&lt;p&gt;Nutcracker 零組件範例&lt;p&gt;
+
+&lt;p&gt;7. ShareX 取畫面圖像與操作影片錄製&lt;p&gt;
+&lt;p&gt;操作過程影片送到 Vimeo 與 Youtube&lt;p&gt;
+&lt;p&gt;利用網誌練習文字、口語、流程規劃執行能力&lt;p&gt;
+
+&lt;p&gt;8. Github submodule 網際協同 (納入協同產品設計實習課程範圍)&lt;p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+終於來到最後一堂課了，在這學期學到了很多，下學期剛好也有老師的課，希望能把原本會的東西學到更精通，期待下學期的課程。</summary><category term="課程總整理"></category></entry><entry><title>影片總整理</title><link href="./ying-pian-zong-zheng-li.html" rel="alternate"></link><published>2017-01-12T22:00:00+08:00</published><updated>2017-01-12T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-01-12:./ying-pian-zong-zheng-li.html</id><summary type="html">&lt;p&gt;影片總整理&lt;/p&gt;
 
 
 &lt;p&gt;&lt;a href="https://vimeo.com/user61278816"&gt;個人Vimeo頁面&lt;/a&gt;&lt;/p&gt;
@@ -12,7 +68,7 @@
 
 &lt;iframe src="https://player.vimeo.com/video/199022535" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/199024528" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace&amp;OnShape"></category></entry><entry><title>第十七週</title><link href="./di-shi-qi-zhou.html" rel="alternate"></link><updated>2017-01-06T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-01-06:./di-shi-qi-zhou.html</id><summary type="html">&lt;p&gt;總整理&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/199024528" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="Solvespace&amp;OnShape"></category></entry><entry><title>第十七週</title><link href="./di-shi-qi-zhou.html" rel="alternate"></link><published>2017-01-06T22:00:00+08:00</published><updated>2017-01-06T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2017-01-06:./di-shi-qi-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&amp;amp;OnShape整理&lt;/p&gt;
 
 
 &lt;p&gt;OnShape&lt;p&gt;
@@ -26,7 +82,7 @@
 &lt;p&gt;心得&lt;p&gt;
 
 
-這學期也已經到了尾聲了，覺得自己不算是很努力，不過在最後幾堂課有振作起來，開始了解老師在幹嘛之後，覺得下學期應該好好跟著老師的腳步，才不會在期末很辛苦。</summary><category term="Solvespace&amp;OnShape"></category></entry><entry><title>第十六週</title><link href="./di-shi-liu-zhou.html" rel="alternate"></link><updated>2016-12-30T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-30:./di-shi-liu-zhou.html</id><summary type="html">&lt;p&gt;OnShape繪製&lt;/p&gt;
+這學期也已經到了尾聲了，覺得自己不算是很努力，不過在最後幾堂課有振作起來，開始了解老師在幹嘛之後，覺得下學期應該好好跟著老師的腳步，才不會在期末很辛苦。</summary><category term="Solvespace&amp;OnShape"></category></entry><entry><title>第十六週</title><link href="./di-shi-liu-zhou.html" rel="alternate"></link><published>2016-12-30T22:00:00+08:00</published><updated>2016-12-30T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-30:./di-shi-liu-zhou.html</id><summary type="html">&lt;p&gt;OnShape繪製&lt;/p&gt;
 
 
 &lt;p&gt;OnShape繪製Mechanism Tutorial&lt;p&gt;
@@ -51,7 +107,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。</summary><category term="OnShape(2)"></category></entry><entry><title>第十五週</title><link href="./di-shi-wu-zhou.html" rel="alternate"></link><updated>2016-12-23T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-23:./di-shi-wu-zhou.html</id><summary type="html">&lt;p&gt;3D印表機&lt;/p&gt;
+今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。</summary><category term="OnShape(2)"></category></entry><entry><title>第十五週</title><link href="./di-shi-wu-zhou.html" rel="alternate"></link><published>2016-12-23T22:00:00+08:00</published><updated>2016-12-23T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-23:./di-shi-wu-zhou.html</id><summary type="html">&lt;p&gt;3D印表機&lt;/p&gt;
 
 
 &lt;p&gt;3D印表機 ，並模擬它的運動軌跡&lt;p&gt;
@@ -65,7 +121,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天第十五次上課，終於看到老師一開始上課的目標了--3D印表機，對這門課越來越有興趣了，真希望多學到一些。</summary><category term="3D印表機"></category></entry><entry><title>第十四週</title><link href="./di-shi-si-zhou.html" rel="alternate"></link><updated>2016-12-16T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-16:./di-shi-si-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&lt;/p&gt;
+今天第十五次上課，終於看到老師一開始上課的目標了--3D印表機，對這門課越來越有興趣了，真希望多學到一些。</summary><category term="3D印表機"></category></entry><entry><title>第十四週</title><link href="./di-shi-si-zhou.html" rel="alternate"></link><published>2016-12-16T22:00:00+08:00</published><updated>2016-12-16T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-16:./di-shi-si-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&lt;/p&gt;
 
 
 &lt;p&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;p&gt;
@@ -102,7 +158,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天第十四次上課，上課人數越來越少了，而且今天的圖好難畫，回去要好好研究了。</summary><category term="Solvespace(3)"></category></entry><entry><title>第十三週</title><link href="./di-shi-san-zhou.html" rel="alternate"></link><updated>2016-12-09T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-09:./di-shi-san-zhou.html</id><summary type="html">&lt;p&gt;OnShape&lt;/p&gt;
+今天第十四次上課，上課人數越來越少了，而且今天的圖好難畫，回去要好好研究了。</summary><category term="Solvespace(3)"></category></entry><entry><title>第十三週</title><link href="./di-shi-san-zhou.html" rel="alternate"></link><published>2016-12-09T22:00:00+08:00</published><updated>2016-12-09T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-09:./di-shi-san-zhou.html</id><summary type="html">&lt;p&gt;OnShape&lt;/p&gt;
 
 
 &lt;p&gt;利用OnShape練習繪製零件。&lt;p&gt;
@@ -126,7 +182,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天第十三次上課，又有交一個新的畫圖軟體OnShape，老師說是Solidworks/的工程師寫的，應該不會太難，只需要熟悉一下。</summary><category term="OnShape(1)"></category></entry><entry><title>第十二週</title><link href="./di-shi-er-zhou.html" rel="alternate"></link><updated>2016-12-02T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-02:./di-shi-er-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&lt;/p&gt;
+今天第十三次上課，又有交一個新的畫圖軟體OnShape，老師說是Solidworks/的工程師寫的，應該不會太難，只需要熟悉一下。</summary><category term="OnShape(1)"></category></entry><entry><title>第十二週</title><link href="./di-shi-er-zhou.html" rel="alternate"></link><published>2016-12-02T22:00:00+08:00</published><updated>2016-12-02T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-12-02:./di-shi-er-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&lt;/p&gt;
 
 
 &lt;p&gt;利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。&lt;p&gt;
@@ -163,7 +219,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-今天第十二次上課，要畫第二張圖，慢慢熟悉SOLVESPACE了，雖然還是會有很多地方卡住。不過我還是畫好了，真開心。</summary><category term="Solvespace(2)"></category></entry><entry><title>第十一週</title><link href="./di-shi-yi-zhou.html" rel="alternate"></link><updated>2016-11-25T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-25:./di-shi-yi-zhou.html</id><summary type="html">&lt;p&gt;校慶&lt;/p&gt;
+今天第十二次上課，要畫第二張圖，慢慢熟悉SOLVESPACE了，雖然還是會有很多地方卡住。不過我還是畫好了，真開心。</summary><category term="Solvespace(2)"></category></entry><entry><title>第十一週</title><link href="./di-shi-yi-zhou.html" rel="alternate"></link><published>2016-11-25T22:00:00+08:00</published><updated>2016-11-25T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-25:./di-shi-yi-zhou.html</id><summary type="html">&lt;p&gt;校慶&lt;/p&gt;
 
 
 &lt;p&gt;虎尾科技大學36週年校慶&lt;p&gt;
@@ -187,7 +243,7 @@
 
 &lt;p&gt;心得&lt;p&gt;
 
-36週年校慶，玩得很開心。</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>第十週</title><link href="./di-shi-zhou.html" rel="alternate"></link><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-18:./di-shi-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&lt;/p&gt;
+36週年校慶，玩得很開心。</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>第十週</title><link href="./di-shi-zhou.html" rel="alternate"></link><published>2016-11-18T22:00:00+08:00</published><updated>2016-11-18T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-18:./di-shi-zhou.html</id><summary type="html">&lt;p&gt;Solvespace&lt;/p&gt;
 
 
 &lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;p&gt;
@@ -216,11 +272,11 @@ https://help.github.com/articles/troubleshooting-jekyll-builds
 
 If you have any questions you can contact us by replying to this email.
 
-我看不太懂他說什麼，不過我們經過討論才知道只要把test_data刪掉，就可解決。我覺得現在GitHub越來越多問題了。</summary><category term="Solvespace"></category></entry><entry><title>第九週</title><link href="./di-jiu-zhou.html" rel="alternate"></link><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-11:./di-jiu-zhou.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第八週</title><link href="./di-ba-zhou.html" rel="alternate"></link><updated>2016-11-04T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-04:./di-ba-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第七週</title><link href="./di-qi-zhou.html" rel="alternate"></link><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-28:./di-qi-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第六週</title><link href="./di-liu-zhou.html" rel="alternate"></link><updated>2016-10-21T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-21:./di-liu-zhou.html</id><summary type="html"></summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第五週</title><link href="./di-wu-zhou.html" rel="alternate"></link><updated>2016-10-14T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-14:./di-wu-zhou.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第四週</title><link href="./di-si-zhou.html" rel="alternate"></link><updated>2016-10-07T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-07:./di-si-zhou.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
-&lt;p&gt;2: 組長用2016fallcadp_bg11的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第三週</title><link href="./di-san-zhou.html" rel="alternate"></link><updated>2016-09-30T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-09-30:./di-san-zhou.html</id><summary type="html">&lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
-&lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第二週</title><link href="./di-er-zhou.html" rel="alternate"></link><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-09-23:./di-er-zhou.html</id><summary type="html">&lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
+我看不太懂他說什麼，不過我們經過討論才知道只要把test_data刪掉，就可解決。我覺得現在GitHub越來越多問題了。</summary><category term="Solvespace"></category></entry><entry><title>第九週</title><link href="./di-jiu-zhou.html" rel="alternate"></link><published>2016-11-11T22:00:00+08:00</published><updated>2016-11-11T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-11:./di-jiu-zhou.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第八週</title><link href="./di-ba-zhou.html" rel="alternate"></link><published>2016-11-04T22:00:00+08:00</published><updated>2016-11-04T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-11-04:./di-ba-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第七週</title><link href="./di-qi-zhou.html" rel="alternate"></link><published>2016-10-28T22:00:00+08:00</published><updated>2016-10-28T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-28:./di-qi-zhou.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第六週</title><link href="./di-liu-zhou.html" rel="alternate"></link><published>2016-10-21T22:00:00+08:00</published><updated>2016-10-21T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-21:./di-liu-zhou.html</id><summary type="html"></summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第五週</title><link href="./di-wu-zhou.html" rel="alternate"></link><published>2016-10-14T22:00:00+08:00</published><updated>2016-10-14T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-14:./di-wu-zhou.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第四週</title><link href="./di-si-zhou.html" rel="alternate"></link><published>2016-10-07T22:00:00+08:00</published><updated>2016-10-07T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-10-07:./di-si-zhou.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
+&lt;p&gt;2: 組長用2016fallcadp_bg11的名稱建立小組倉儲並邀組員進入小組倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第三週</title><link href="./di-san-zhou.html" rel="alternate"></link><published>2016-09-30T22:00:00+08:00</published><updated>2016-09-30T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-09-30:./di-san-zhou.html</id><summary type="html">&lt;p&gt;1:複製網誌和簡報的設定檔2016fallcadp_hw的倉儲&lt;/p&gt;
+&lt;p&gt;2:更改2016fallcadp_hw的README.md檔案&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第二週</title><link href="./di-er-zhou.html" rel="alternate"></link><published>2016-09-23T22:00:00+08:00</published><updated>2016-09-23T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-09-23:./di-er-zhou.html</id><summary type="html">&lt;p&gt;1: 建立"學號.github.io"名稱的倉儲&lt;/p&gt;
 &lt;p&gt;2: 把分支的預設值改為gh-pages&lt;/p&gt;
-&lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第一週</title><link href="./di-yi-zhou.html" rel="alternate"></link><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-09-16:./di-yi-zhou.html</id><summary type="html">&lt;p&gt;切換分支&lt;/p&gt;
+&lt;p&gt;3: 建立"2016fallcpb_hw"作業倉儲&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>第一週</title><link href="./di-yi-zhou.html" rel="alternate"></link><published>2016-09-16T22:00:00+08:00</published><updated>2016-09-16T22:00:00+08:00</updated><author><name>40423247</name></author><id>tag:,2016-09-16:./di-yi-zhou.html</id><summary type="html">&lt;p&gt;切換分支&lt;/p&gt;
 
 &lt;pre&gt;cd &lt;u&gt;tmp&lt;/u&gt;&lt;/pre&gt;
 
@@ -240,7 +296,7 @@ If you have any questions you can contact us by replying to this email.
 
 &lt;p&gt;推送進端資料到遠端&lt;/p&gt;
 
-&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
 
 
 &lt;p&gt;網誌 Category&lt;/p&gt;

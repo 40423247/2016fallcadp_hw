@@ -217,7 +217,7 @@
 <v t="leo.20170112014012.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109021834.1" a="E"><vh>20170106</vh>
+<v t="leo.20170109021834.1"><vh>20170106</vh>
 <v t="leo.20170109021834.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170109021834.3"><vh>20170106</vh></v>
 </v>
@@ -226,6 +226,17 @@
 </v>
 <v t="leo.20170109021834.6" a="E"><vh>心得</vh>
 <v t="leo.20170109021834.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170113095111.1" a="E"><vh>20170113</vh>
+<v t="leo.20170113095111.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170113095111.3"><vh>20170113</vh></v>
+</v>
+<v t="leo.20170113095111.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170113095111.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170113095111.6" a="E"><vh>心得</vh>
+<v t="leo.20170113095111.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -266,6 +277,7 @@
 <v t="leo.20170106104236.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170109022012.1"><vh>@edit 20170106.md</vh></v>
 <v t="leo.20170112223449.1"><vh>@edit 20170112.md</vh></v>
+<v t="leo.20170113094153.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -1374,5 +1386,47 @@ If you have any questions you can contact us by replying to this email.
 
 今天12月30號上課，因為比較習慣用SolveSpace，所以用這種軟體畫，但看到很多人都去跨年了，好難過。
 </t>
+<t tx="leo.20170113095111.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170113095111.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113095111.3">## 2017/01/13 第十八週
+
+</t>
+<t tx="leo.20170113095111.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113095111.5">##上課內容 
+
+電腦輔助設計實習課程2016 Fall 第十八週期末課程總結。
+</t>
+<t tx="leo.20170113095111.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113095111.7">##心得
+
+
+終於來到最後一堂課了，在這學期學到了很多，下學期剛好也有老師的課，希望能把原本會的東西學到更精通，期待下學期的課程。</t>
 </tnodes>
 </leo_file>
