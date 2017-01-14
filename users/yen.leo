@@ -196,10 +196,10 @@
 </v>
 </v>
 <v t="leo.20170106101410.1" a="E"><vh>20161223</vh>
-<v t="leo.20170106101410.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170106101410.2"><vh>上課日期</vh>
 <v t="leo.20170106101410.3"><vh>20161223</vh></v>
 </v>
-<v t="leo.20170106101410.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170106101410.4"><vh>上課內容</vh>
 <v t="leo.20170106101410.5"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170106101410.6" a="E"><vh>心得</vh>
@@ -210,8 +210,11 @@
 <v t="leo.20170106101416.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170106101416.3"><vh>20161230</vh></v>
 </v>
-<v t="leo.20170106101416.4" a="E"><vh>上課內容</vh>
-<v t="leo.20170106101416.5"><vh>上課內容</vh></v>
+<v t="leo.20170115033954.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115033954.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115033956.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115033956.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170112014012.1" a="E"><vh>心得</vh>
 <v t="leo.20170112014012.2"><vh>心得</vh></v>
@@ -1139,6 +1142,7 @@ If you have any questions you can contact us by replying to this email.
 
 這週在教利用OnShape練習繪製零件。
 
+&lt;iframe src="https://player.vimeo.com/video/199472214" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1154,7 +1158,7 @@ If you have any questions you can contact us by replying to this email.
 </t>
 <t tx="leo.20170106101357.7">##心得
 
-今天第十三次上課，又有交一個新的畫圖軟體OnShape，老師說是Solidworks/的工程師寫的，應該不會太難，只需要熟悉一下。
+今天第十三次上課，又有交一個新的畫圖軟體OnShape，老師說是Solidworks的工程師寫的，應該不會太難，只需要熟悉一下。
 </t>
 <t tx="leo.20170106101404.1">&lt;section&gt;
 @others
@@ -1269,19 +1273,6 @@ If you have any questions you can contact us by replying to this email.
 <t tx="leo.20170106101416.3">## 2016/12/30 第十六週
 
 </t>
-<t tx="leo.20170106101416.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170106101416.5">##上課內容 
-
-計算 Piston 不發生干涉的有效行程
-&lt;img src="data/w16.png" width="650" /&gt;</t>
 <t tx="leo.20170109021834.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1428,5 +1419,31 @@ If you have any questions you can contact us by replying to this email.
 
 
 終於來到最後一堂課了，在這學期學到了很多，下學期剛好也有老師的課，希望能把原本會的東西學到更精通，期待下學期的課程。</t>
+<t tx="leo.20170115033954.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115033954.2">##上課內容 
+
+計算 Piston 不發生干涉的有效行程
+&lt;img src="data/w16.png" width="650" /&gt;</t>
+<t tx="leo.20170115033956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115033956.2">##上課內容 
+
+
+&lt;iframe src="https://player.vimeo.com/video/199474775" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
