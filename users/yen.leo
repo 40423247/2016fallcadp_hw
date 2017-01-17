@@ -220,7 +220,7 @@
 <v t="leo.20170112014012.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170109021834.1"><vh>20170106</vh>
+<v t="leo.20170109021834.1" a="E"><vh>20170106</vh>
 <v t="leo.20170109021834.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170109021834.3"><vh>20170106</vh></v>
 </v>
@@ -1303,7 +1303,6 @@ If you have any questions you can contact us by replying to this email.
 老師說明了這學期的課與下學期的關連性。
 
 
-&lt;img src="data/week17.png" width="550" /&gt;
 </t>
 <t tx="leo.20170109021834.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
